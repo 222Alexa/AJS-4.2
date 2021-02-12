@@ -64,3 +64,5 @@ npm test
 Сгенерируйте проект на базе `npm`. Подключите туда `jest` и напишите авто-тесты, которые обеспечивают 100% покрытие вашей функции по строкам.
 
 Убедитесь, что вы обеспечили 100% покрытие тестами.
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/jiq7xduu0we7ow0d/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-4-2/branch/main)
