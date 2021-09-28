@@ -75,3 +75,5 @@ npm test
 Вы можете дополнительно изучить список доступных "матчер" (список приведён на странице [Документация по expect](https://jestjs.io/docs/ru/expect)), для организации сравнения.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/x3htwt31oob2870c/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-4-2-jd9w9/branch/main)
